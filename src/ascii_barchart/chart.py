@@ -17,4 +17,4 @@ def render_bar_chart(values):
         
         console.print(f"{label}: ", bar, f" {value}")
 
-render_bar_chart(values)
+# render_bar_chart(values)

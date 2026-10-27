@@ -22,5 +22,3 @@ def load_rows(points):
 
     return rows
 
-rows = load_rows("data/points.csv")
-print(rows)
