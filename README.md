@@ -529,20 +529,20 @@ Behandelt jede `FAIL`-Zeile wie einen Hinweis eines automatischen Tutors: verste
 
 Euer Praktikum ist abgeschlossen, wenn:
 
-- [ ] beide Teammitglieder das Repository selbst lokal in VS Code geklont haben,
-- [ ] beide Teammitglieder eigene Python-Code-Commits haben,
-- [ ] beide mindestens einen eigenen Branch verwendet haben,
-- [ ] Pull Requests und Reviews verwendet wurden,
-- [ ] mindestens einmal Änderungen über **Pull** / **Sync** vom Remote geholt wurden,
-- [ ] `.venv/` lokal existieren darf, aber nicht von Git getrackt wird,
-- [ ] `pyproject.toml` vorhanden ist,
-- [ ] `rich` als Dependency eingetragen ist,
-- [ ] `uv.lock` committed ist,
-- [ ] `src/ascii_barchart/__init__.py` existiert,
-- [ ] relative Imports zwischen den Modulen verwendet werden,
-- [ ] `uv run python -m ascii_barchart.cli data/points.csv` funktioniert,
-- [ ] beide lokalen Clones nach einem finalen Pull auf demselben Stand sind,
-- [ ] die GitHub-CI grün ist.
+- [x] beide Teammitglieder das Repository selbst lokal in VS Code geklont haben,
+- [x] beide Teammitglieder eigene Python-Code-Commits haben,
+- [x] beide mindestens einen eigenen Branch verwendet haben,
+- [x] Pull Requests und Reviews verwendet wurden,
+- [x] mindestens einmal Änderungen über **Pull** / **Sync** vom Remote geholt wurden,
+- [x] `.venv/` lokal existieren darf, aber nicht von Git getrackt wird,
+- [x] `pyproject.toml` vorhanden ist,
+- [x] `rich` als Dependency eingetragen ist,
+- [x] `uv.lock` committed ist,
+- [x] `src/ascii_barchart/__init__.py` existiert,
+- [x] relative Imports zwischen den Modulen verwendet werden,
+- [x] `uv run python -m ascii_barchart.cli data/points.csv` funktioniert,
+- [x] beide lokalen Clones nach einem finalen Pull auf demselben Stand sind,
+- [x] die GitHub-CI grün ist.
 
 ---
 
